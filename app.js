@@ -1,1 +1,1 @@
-console.log("CI/CD Project Working - Version 1");
+console.log("CI/CD Project Working - Version 2");
